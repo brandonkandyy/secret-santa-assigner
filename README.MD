@@ -8,11 +8,11 @@ Add it to the project by running:
 `pip install twilio`
 
 # Particpants.txt
-This is where you list out . It follows the format of name of the particpant, single space, particpant's phone number:
+This is where you list out all the participants. It follows the format of the name of the particpant, single space, particpant's phone number:
 
 `NAME +PHONE_NUMBER`
 
-Every particpant is seperatted by a new line
+Every particpant is seperated by a new line
 
 For example:
 ```
